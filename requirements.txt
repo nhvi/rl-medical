@@ -3,3 +3,4 @@ numpy
 SimpleITK
 gym
 pillow
+pyglet==1.5.11
